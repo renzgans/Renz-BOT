@@ -6,10 +6,10 @@ const fs = require("fs")
 const chalk = require("chalk")
 
 // Other
-global.thum = fs.readFileSync("./plugins/media/image/thumb.jpg")
-global.log0 = fs.readFileSync("./plugins/media/image/thumb.jpg")
-global.err4r = fs.readFileSync("./plugins/media/image/thumb.jpg")
-global.locimg = fs.readFileSync("./plugins/media/image/loc.jpg")
+global.thum = fs.readFileSync("./plugins/media/image/loc.jepg")
+global.log0 = fs.readFileSync("./plugins/media/image/loc.jepg")
+global.err4r = fs.readFileSync("./plugins/media/image/loc.jepg")
+global.locimg = fs.readFileSync("./plugins/media/image/loc.jepg")
 global.owner = ['6281250365581', '6281250365581']
 global.numberOwner = "6281250365581"
 global.group = "https://chat.whatsapp.com/HSSbStv1qCQ8zwapaTqGp3"
@@ -28,7 +28,7 @@ global.txtSewabot = "Perma : 1 DL\nPerma : 1 DL\nPerma : 1 DL\nPerma : 1 DL\nPer
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
     success: 'Success',
-    admin: 'Fitur Khusus Admin Group, Makanya Jadi Admin!',
+    admin: 'Fitur Khusus Admin Group, Makanya Jadi Admin Tolol!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu Tolol Banget!',
     owner: 'Fitur Khusus Renz',
     group: 'Fitur Digunakan Hanya Untuk Group!',
